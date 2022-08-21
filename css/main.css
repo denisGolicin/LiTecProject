@@ -15,25 +15,25 @@
 @keyframes move {
     0% {
         background-position: 80% 80%;
-        background-size: 500%;
+        background-size: 600%;
     }
     25%
     {
     	background-position: 50% 50%;
-        background-size: 500%;
+        background-size: 600%;
     }
     50% {
         background-position: 20% 20%;
-        background-size: 500%
+        background-size: 600%
 
     }
     75%{
     	background-position: 80% 80%;
-        background-size: 500%;
+        background-size: 600%;
     }
     100% {
         background-position: 80% 80%;
-        background-size: 500%
+        background-size: 600%
     }
 }
 /*.flex-block{
