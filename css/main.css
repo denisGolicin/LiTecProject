@@ -1,3 +1,6 @@
+body{
+	background-color:red;
+}
 .flex-main{
 
 	background: url("../src/bcgr.jpeg") center/cover no-repeat;
